@@ -10,8 +10,8 @@
 
   <p align="center" style="font-size: 16px; max-width: 600px;">
     👋 <b>Welcome to my digital workspace!</b><br>
-    I'm a vocational student from <b>Lumajang, ID</b>. Currently focusing on building robust backend systems with Laravel while exploring the beauty of React.js.
-    <br><br>
+    Based in <b>Lumajang, ID</b>. I spend my nights turning coffee into code. 
+    Deep diving into <b>JavaScript</b>, while slowly falling in love with <b>Laravel</b>.
     🔭 <b>Currently working on:</b> <a href="https://github.com/BimaNtx/app-pos">POS Restaurant System</a><br>
     🐧 <b>Daily Driver:</b> Linux Mint & Windows (Dual Boot)<br>
     🎧 <b>Coding Fuel:</b> <a href="https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR">
