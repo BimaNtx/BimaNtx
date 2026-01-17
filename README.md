@@ -11,8 +11,8 @@
   <p align="center" style="font-size: 16px; max-width: 600px;">
     👋 <b>Welcome to my digital workspace!</b><br>
     Based in <b>Lumajang, ID</b>. I spend my nights turning coffee into code. 
-    Deep diving into <b>JavaScript</b>, while slowly falling in love with <b>Laravel</b>.
-    🔭 <b>Currently working on:</b> <a href="https://github.com/BimaNtx/app-pos">POS Restaurant System</a><br>
+    Deep diving into <b>JavaScript</b>, while slowly falling in love with <b>Laravel</b>.<br>
+    📚 <b>Status:</b> Forever Student of Code <br>
     🐧 <b>Daily Driver:</b> Linux Mint & Windows (Dual Boot)<br>
     🎧 <b>Coding Fuel:</b> <a href="https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR">
     <img src="https://img.shields.io/badge/Anthem-Love%20Me%20Not%20%E2%80%A2%20Ravyn%20Lenae-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Anthem Song">
