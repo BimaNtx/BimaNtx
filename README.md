@@ -3,7 +3,7 @@
   <img src="https://media1.tenor.com/m/iF6NWcYilPsAAAAC/cherry-blossom.gif" width="100%" style="border-radius: 10px; margin-bottom: 25px;" alt="Night Scenery">
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A9B1D6&center=true&vCenter=true&width=435&lines=Hi,+I'm+BimaNtx+🌙;RPL+Student+%7C+Web+Dev;Loves+Laravel+%26+Spicy+Food+🌶️;Building+logic+at+3+AM..." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A9B1D6&center=true&vCenter=true&width=435&lines=Hi,+I'm+BimaNtx+🌙;RPL+Student+%7C+Web+Dev;Building+logic+at+3+AM..." alt="Typing SVG" />
   </a>
 
   <br><br>
