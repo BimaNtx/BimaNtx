@@ -51,5 +51,12 @@
   </div>
 
   <br>
+  ---
+
+> *Code is not about typing fast,  
+> but thinking clearly.*
+
+🌱 Learning every day • Building slowly 
+
 
 </div>
