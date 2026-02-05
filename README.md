@@ -9,7 +9,6 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/-Lumajang%2C%20ID-gray?style=flat-square&logo=google-maps&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Open%20To%20Internship-0e76a8?style=flat-square&logo=linkedin&logoColor=white" />
   <img src="https://img.shields.io/badge/-Software%20Engineering-blue?style=flat-square&logo=microsoft-academic&logoColor=white" />
 </div>
 
@@ -18,7 +17,7 @@
 ### 👨‍💻 About Me
 I'm an 11th-grade **Software Engineering (RPL)** student based in Indonesia. I have a strong passion for **Frontend Development** and creating interactive **User Interfaces**.
 
-* 🔭 I’m currently working on a **POS System**, handling the **UI/UX** and integration with Laravel.
+* 🔭 I love building beautiful interfaces while secretly geeking out over system security
 * 🌱 I’m actively learning **React.js** to build modern single-page applications.
 * 🛡️ I also have an interest in **Cybersecurity** and secure coding practices.
 * 🐧 **Daily Driver:** Dual-booting **Linux Mint** (for dev) & Windows.
@@ -41,27 +40,23 @@ I'm an 11th-grade **Software Engineering (RPL)** student based in Indonesia. I h
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | **Web-Based POS** | A Point of Sale app for retail. Focused on creating a responsive and intuitive dashboard UI. | `Laravel` `Tailwind` |
-| **SecurePass** *(Concept)* | Upcoming dashboard project for cybersecurity simulation and password management. | `React` `Node.js` |
-| **Dotfiles** | My personal Linux Mint configuration (Hyprland/i3 experiments & terminal setups). | `Bash` `Linux` |
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BimaNtx&show_icons=true&theme=gotham&hide_border=true&count_private=true&include_all_commits=true" width="48%" align="left" alt="Bima stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BimaNtx&layout=compact&theme=gotham&hide_border=true&langs_count=6" width="48%" align="right" alt="languages" />
-</div>
-<br/><br/><br/><br/><br/><br/><br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BimaNtx&theme=gotham&hide_border=true" width="98%" alt="streak stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=BimaNtx&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Bima's GitHub Stats" />
+  
+  <br/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BimaNtx&theme=radical&hide_border=true" alt="streak stats" />
 </div>
 
 ---
 
 <p align="center">
-  <i>Let's connect and build something cool!</i><br>
-  <a href="mailto:emailmu@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://linkedin.com/in/username-linkedin-mu"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <i>Let's connect and build something</i><br>
+  <a href="mailto:anantabima089@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://linkedin.com/in/Bima Ananta"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </p>
