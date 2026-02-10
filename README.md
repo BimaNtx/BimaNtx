@@ -65,7 +65,3 @@ I'm an 11th-grade **Software Engineering (RPL)** student based in Indonesia. I h
 </a><a href="mailto:anantabima089@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
 </a>
-<a href="https://www.linkedin.com/in/bima-ananta-2072b23a9" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
-</a>
-</p>
